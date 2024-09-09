@@ -1,3 +1,46 @@
+# City Distance Calculator
+
+## Overview
+
+City Distance Calculator is a web application built with Laravel that allows users to input cities and the distances between them. The application calculates and displays the shortest path between cities based on the entered distances.
+
+## Features
+
+- **Add Cities**: Allows users to add new cities to the system.
+- **Add Distances**: Allows users to add distances between cities.
+- **View Distances**: Displays a table of all distances between cities, sorted from the shortest to the longest.
+- **Calculate Shortest Path**: Computes the shortest path between cities based on the entered distances.
+
+## Requirements
+
+- PHP >= 8
+- Composer
+- Laravel 8.x
+- MySQL 
+
+## Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/city-distance-calculator.git
+
+# Welcome to the Calculate-the-shortest-route-between-cities wiki!
+![image](https://github.com/user-attachments/assets/2a35f946-99c2-44ea-83ad-8dd2d56330fb)
+
+# Add a New City
+You can add a new city by clicking the button below. Simply enter the name of the city you want to add, and it will be stored in the system.
+
+![image](https://github.com/user-attachments/assets/3aed0b5c-b9bd-4fb8-82c2-497729556b52)
+# Add Distance Between Cities
+To define the distance between two cities, use the button below. You will need to select the cities and provide the distance between them.
+![image](https://github.com/user-attachments/assets/c559c8fe-d0f8-4043-af85-06300aa1c602)
+
+# Show all possible distances between cities in a table with distances arranged from nearest to farthest.
+![image](https://github.com/user-attachments/assets/d5493755-1a2a-4cd9-8ae6-21bdfeb8dff4)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
