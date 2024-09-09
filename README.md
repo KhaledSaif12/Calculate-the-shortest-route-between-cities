@@ -36,6 +36,10 @@ You can add a new city by clicking the button below. Simply enter the name of th
 To define the distance between two cities, use the button below. You will need to select the cities and provide the distance between them.
 ![image](https://github.com/user-attachments/assets/c559c8fe-d0f8-4043-af85-06300aa1c602)
 
+# Show all possible distances between cities in a table with distances arranged from nearest to farthest.
+![image](https://github.com/user-attachments/assets/d5493755-1a2a-4cd9-8ae6-21bdfeb8dff4)
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
