@@ -1,3 +1,31 @@
+# City Distance Calculator
+
+## Overview
+
+City Distance Calculator is a web application built with Laravel that allows users to input cities and the distances between them. The application calculates and displays the shortest path between cities based on the entered distances.
+
+## Features
+
+- **Add Cities**: Allows users to add new cities to the system.
+- **Add Distances**: Allows users to add distances between cities.
+- **View Distances**: Displays a table of all distances between cities, sorted from the shortest to the longest.
+- **Calculate Shortest Path**: Computes the shortest path between cities based on the entered distances.
+
+## Requirements
+
+- PHP >= 8
+- Composer
+- Laravel 8.x
+- MySQL 
+
+## Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/city-distance-calculator.git
+   
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
