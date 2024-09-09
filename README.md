@@ -28,6 +28,10 @@ City Distance Calculator is a web application built with Laravel that allows use
 # Welcome to the Calculate-the-shortest-route-between-cities wiki!
 ![image](https://github.com/user-attachments/assets/2a35f946-99c2-44ea-83ad-8dd2d56330fb)
 
+# Add a New City
+You can add a new city by clicking the button below. Simply enter the name of the city you want to add, and it will be stored in the system.
+
+![image](https://github.com/user-attachments/assets/3aed0b5c-b9bd-4fb8-82c2-497729556b52)
    
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
