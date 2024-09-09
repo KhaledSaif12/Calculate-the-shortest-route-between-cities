@@ -39,6 +39,43 @@ To define the distance between two cities, use the button below. You will need t
 # Show all possible distances between cities in a table with distances arranged from nearest to farthest.
 ![image](https://github.com/user-attachments/assets/d5493755-1a2a-4cd9-8ae6-21bdfeb8dff4)
 
+Here’s a refined version of your README content:
+
+---
+
+# Shortest Path Finder
+
+This application allows users to find the shortest path between two cities using Dijkstra's algorithm. Below is an overview of the main components and functionalities:
+
+## View Overview
+
+### 1. City Selection Form
+
+- **Purpose**: Enables users to select a starting city and an ending city from dropdown menus.
+- **Fields**: Includes two `<select>` dropdown lists and a submit button to initiate the path finding.
+
+### 2. Possible Paths Display
+
+- **Purpose**: Lists all possible paths between the selected cities along with the total distance for each path.
+- **Display**: Presented in a table format with columns for the path number, the path itself, and the distance.
+
+### 3. Shortest Path Display
+
+- **Purpose**: Shows the shortest path between the selected start and end cities, including the total distance.
+- **Condition**: Displays the path if a valid route is found. If no path exists, a message indicating "No path found" is shown.
+
+## How to Use
+
+1. **Select Cities**:
+   - Choose the starting and ending cities from the dropdown lists.
+
+2. **Find Paths**:
+   - Click the "Find Shortest Path" button to see all possible paths and the shortest path.
+
+3. **View Results**:
+   - Possible paths and the shortest path will be displayed, including the distance for each.
+
+![image](https://github.com/user-attachments/assets/aecf057c-0e63-4463-bc9d-fb806d79ad42)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
